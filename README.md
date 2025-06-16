@@ -1,5 +1,3 @@
-# Fuel-Price-Data-Project
-
 # ⛽ Fuel Price Analysis (Malaysia) — Data Engineer Assessment
 
 This project extracts, transforms, and analyzes Malaysia’s official **weekly fuel price data** to derive meaningful insights using Python and data visualization techniques.
