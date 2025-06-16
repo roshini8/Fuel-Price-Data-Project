@@ -1,32 +1,45 @@
 # Fuel-Price-Data-Project
 
-Fuel Price Analysis (Malaysia) — Data Engineer Assessment
-This project extracts, transforms, and analyzes Malaysia’s official weekly fuel price data to derive meaningful insights using Python and visualization tools.
+# ⛽ Fuel Price Analysis (Malaysia) — Data Engineer Assessment
 
-📊 Objective
-To demonstrate data engineering skills by:
+This project extracts, transforms, and analyzes Malaysia’s official **weekly fuel price data** to derive meaningful insights using Python and data visualization techniques.
 
-Extracting real-time fuel price data via an API.
+---
 
-Preprocessing and transforming the dataset.
+## 📊 Objective
 
-Analyzing price trends, rolling averages, and differences.
+To demonstrate practical **Data Engineering** and **Data Analysis** skills by:
 
-Identifying meaningful insights for data-driven decisions.
+✅ Extracting real-time fuel price data via an API  
+✅ Preprocessing and transforming the dataset  
+✅ Analyzing price trends, rolling averages, and weekly differences  
+✅ Deriving insights for data-driven decision-making
 
-🚀 Tech Stack
-Languages: Python 3.10+
+---
 
-Libraries:
+## 🚀 Tech Stack
 
-pandas, numpy – Data manipulation
+**Languages:**  
+- Python 3.10+
 
-matplotlib, seaborn – Data visualization
+**Libraries:**  
+- `pandas`, `numpy` — Data manipulation  
+- `matplotlib`, `seaborn` — Data visualization  
+- `requests` — API interaction
 
-requests – API interaction
+**Data Source:**  
+- [Malaysia Fuel Price API](https://www.data.gov.my/data/ms_MY/dataset/maklumat-harga-runcit-produk-petroleum-mingguan)
 
-Data Source: Malaysia Fuel Price API
+---
 
+## 📥 How to Run
+
+1. **Clone the Repository**
+```bash
+git clone https://github.com/roshini8/fuel-price-analysis-malaysia.git
+cd fuel-price-analysis-malaysia
+
+```
 📚 Future Improvements
 Deploy the analysis as an interactive dashboard using Streamlit or Power BI.
 
